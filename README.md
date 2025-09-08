@@ -12,6 +12,7 @@ The CIFAR-10 dataset is a widely used benchmark in computer vision and deep lear
 |-------|----------|---------------------------------|------------|-------------|
 | Baseline | 70.09% | ~2.5 hours (CPU) | ~3.1M | - |
 | Enhanced | 83.28% | ~45 minutes (GPU) | ~4.2M | +13.19% |
+
 Improvement: +13.19% accuracy with 3× faster training
 
 ---
