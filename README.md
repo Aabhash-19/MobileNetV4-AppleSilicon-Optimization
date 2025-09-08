@@ -220,10 +220,10 @@ os.environ['PYTORCH_MPS_HIGH_WATERMARK_RATIO'] = '0.0'
 
 ### Training Efficiency
 
--- Time Reduction: 2.5 hours → 45 minutes (3.3× faster)
--- Memory Usage: ~1.2GB GPU memory peak
--- Energy Impact: 18-25 (efficient for ML workloads)
--- Batch Size: 64 (consistent for fair comparison)
+1. Time Reduction: 2.5 hours → 45 minutes (3.3× faster)
+2. Memory Usage: ~1.2GB GPU memory peak
+3. Energy Impact: 18-25 (efficient for ML workloads)
+4. Batch Size: 64 (consistent for fair comparison)
 
 ---
 
