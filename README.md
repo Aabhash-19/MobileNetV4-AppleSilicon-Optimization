@@ -4,6 +4,8 @@ This repository contains PyTorch implementations of MobileNetV4 architecture wit
 ### CIFAR-10 Dataset Overview
 The CIFAR-10 dataset is a widely used benchmark in computer vision and deep learning research, consisting of 60,000 32×32 pixel color images distributed across 10 distinct classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck. The dataset is perfectly balanced with 6,000 images per category, split into 50,000 training images and 10,000 test images. Despite its small image size, CIFAR-10 presents a challenging multi-class classification problem due to the diversity of objects, varying backgrounds, and different orientations within each category. Its manageable size makes it ideal for rapid prototyping and testing of neural network architectures while still maintaining sufficient complexity to evaluate model performance effectively. The dataset's popularity stems from its well-curated nature, balanced distribution, and the fact that it represents real-world object recognition tasks at a scale suitable for both educational purposes and research experimentation.
 
+For more information: https://www.kaggle.com/c/cifar-10/
+
 ---
 
 ## 📊 Performance Summary
