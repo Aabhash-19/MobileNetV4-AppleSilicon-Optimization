@@ -1,0 +1,17 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+matplotlib>=3.5.0
+numpy>=1.22.0
+tqdm>=4.62.0
+pillow>=9.0.0
+
+# Optional (for advanced monitoring)
+psutil>=5.9.0
+
+# For Apple Silicon users (M1/M2/M3/M4 chips):
+# Install PyTorch with MPS support using:
+# pip install --pre torch torchvision --index-url https://download.pytorch.org/whl/nightly/cpu
+
+# Basic installation:
+# pip install -r requirements.txt
