@@ -179,7 +179,7 @@ torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
 ## 🍎 Apple Silicon Optimization
 
-## GPU Acceleration with MPS
+### GPU Acceleration with MPS
 
 ```bash
 # Automatic device detection
@@ -193,7 +193,7 @@ else:
 ```
 **Impact:** 3-5× faster training on M1/M2/M3/M4 chips
 
-## Memory Optimization
+### Memory Optimization
 
 ```bash
 os.environ['PYTORCH_MPS_HIGH_WATERMARK_RATIO'] = '0.0'
