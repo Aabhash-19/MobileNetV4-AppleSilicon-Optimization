@@ -265,16 +265,6 @@ The enhanced MobileNetV4 implementation demonstrates significant improvements th
 
 ---
 
-## 📚 References
-
-1. Howard, A., et al. "Searching for MobileNetV4"
-2. Hu, J., et al. "Squeeze-and-Excitation Networks"
-3. Loshchilov, I., & Hutter, F. "Decoupled Weight Decay Regularization"
-4. Han, D., et al. "Rethinking Softmax with Cross-Entropy"
-5. Ramachandran, P., et al. "Searching for Activation Functions"
-
----
-
 **Note:** Results may vary based on hardware configuration and random seed initialization. For optimal performance, use Apple Silicon devices with macOS 13.0+. The achieved 83.28% accuracy represents a significant 13.19% improvement over the baseline model.
 
 
